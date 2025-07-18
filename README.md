@@ -12,7 +12,7 @@ A demo project for automating tasks in Free Fire using bots.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/freefirebot.git
+    git clone https://github.com/lxbadboy/freefirebot.git
     ```
 2. Install dependencies:
     ```bash
